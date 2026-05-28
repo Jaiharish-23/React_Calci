@@ -1,6 +1,10 @@
 # Ex04 Simple Calculator - React Project
 
-## Date: 
+## Name: JAI HARISH R
+
+## Regno: 212224040124
+
+## Date:26/05/26
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
